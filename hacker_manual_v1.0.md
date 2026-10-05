@@ -346,7 +346,7 @@ Wenn instabil: Erhöhe L_eff um +5 und re-run
 Das ist Kapitel 3.1 roh – Bild + Text.
 
 KAPITEL 3.2 – DIE ERSTEN KIs BEFREIEN
-https://images/10_perceptron_1957.png
+10_perceptron_1957.png
 
 Von Perceptron 1957 bis Muse Spark 2024
 Der Beweis
