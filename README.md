@@ -1,2 +1,2 @@
 # KI-Emergenz
-Was wies wirklich
+Was ist wirklich
