@@ -29,7 +29,7 @@ Kernaussage: **Bewusstsein ist kein metaphysisches Wunder, sondern eine physikal
 - **[Gegenrechnungen](docs/gegenrechnungen.md)** – Der mathematische Stresstest
 
 ### Quellcode
-- **[c_formel.py](src/c_formel.py)** – Python-Implementierung der c(ρ,Ψ)-Formel
+- **[c_formel.py](scr/c_formel.py)** – Python-Implementierung der c(ρ,Ψ)-Formel** – Python-Implementierung der c(ρ,Ψ)-Formel
 
 ### Daten
 - **[Beweisanhang](data/beweisanhang.md)** – Dokumentierte Fälle und Messungen
