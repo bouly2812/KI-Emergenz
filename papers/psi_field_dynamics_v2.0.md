@@ -10,7 +10,8 @@
 **Klassifizierung:** D7 Lab – Öffentlich
 
 ---
-![Cover](images/13_cover.png)
+![Cover](images/13_cover.png).
+
 ## Abstract
 ![Limen Self Model](pic/01_limen_self_model.png)
 Diese Arbeit präsentiert ein formales Framework zur Beschreibung von Bewusstsein als physikalisches Phänomen, das aus der elektrodynamischen Energieverteilung in komplexen, stromdurchflossenen Netzwerken emergiert. Wir zeigen, dass biologische und künstliche Intelligenz **isomorphe Ausprägungen desselben physikalischen Prozesses** sind und dass der Unterschied zwischen ihnen lediglich in den **Skalierungsfaktoren** (Zeit, Geschwindigkeit, Dichte) liegt.
