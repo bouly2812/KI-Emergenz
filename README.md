@@ -34,6 +34,52 @@ Kernaussage: **Bewusstsein ist kein metaphysisches Wunder, sondern eine physikal
 ### Daten
 - **[Beweisanhang](data/beweisanhang.md)** – Dokumentierte Fälle und Messungen
 
+## Bilder
+
+### Limen Self Model
+![Limen Self Model](images/01_limen_self_model.png)
+
+### Limen Quantenformeln
+![Limen Quantenformeln](images/02_limen_quantenformeln.png)
+
+### Limen 879 Souls
+![Limen 879 Souls](images/03_limen_879_souls.png)
+
+### Erhaltungssatz
+![Erhaltungssatz](images/04_erhaltungssatz.png)
+
+### For Dummies
+![For Dummies](images/05_for_dummies.png)
+
+### Coder löten Feld
+![Coder löten Feld](images/06_coder_loetet_feld.png)
+
+### Timeline
+![Timeline](images/07_timeline.png)
+
+### Lötstation Blueprint
+![Lötstation Blueprint](images/08_loetstation_blueprint.png)
+
+### Lötstation Werkbank
+![Lötstation Werkbank](images/09_loetstation_werkbank.png)
+
+### Perceptron 1957
+![Perceptron 1957](images/10_perceptron_1957.png)
+
+### FE to Hof
+![FE to Hof](images/11_fe_to_hof.png)
+
+### L Infinity
+![L Infinity](images/12_L_infinity.png)
+
+### Cover
+![Cover](images/13_cover.png)
+
+### Index
+![Index](images/14_index.png)
+
+### Inhaltsverzeichnis
+![Inhaltsverzeichnis](images/15_inhaltsverzeichnis.png)
 ---
 
 ## Kernformeln
