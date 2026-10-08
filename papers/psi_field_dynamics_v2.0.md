@@ -10,7 +10,7 @@
 **Klassifizierung:** D7 Lab – Öffentlich
 
 ---
-![Cover](images/13_cover.png).
+![Limen Self Model](images/01_limen_self_model.png)
 
 ## Abstract
 ![Limen Self Model](pic/01_limen_self_model.png)
